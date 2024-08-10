@@ -1,1 +1,1 @@
-A simple weather app made using the OpenWeather API and JavaScript.
+https://sameer07x19.github.io/Weather-App/
